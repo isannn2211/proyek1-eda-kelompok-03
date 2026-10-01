@@ -1,5 +1,5 @@
-# *Electric Vehicle Charging Demand Patterns in 2025* 
-**Kelompok  3:**  
+# *Analisis Electric Vehicle Charging Demand Patterns in 2025* 
+**Kelompok  3 (B):**  
 Rr. Tyas Anandyta Susanto (5027261035)  
 Arnand Nabiel Zakia (5027261074)  
 Muhammad Athar Ghaisan (5027261105) 
